@@ -1,10 +1,6 @@
 microservicios
 UsuarioController.java
 
-
-
-
-
 spring  movie app
 
 .env file
@@ -17,8 +13,21 @@ UsuarioService.Application.java
 SpringApplication.run(UsuarioServiceApplication.class, args);
 Application run failed
 
+introduction to java
+web development
+desktop development
+mobile development
+game development
+distributed procesing
 
+fetures
+robust 
+secure
+multi threading
+garbage collector 
+object oriented
+platform independent
+String type-checking
+compile & interpret 
 
-
-
-
+1:10
