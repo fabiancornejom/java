@@ -49,6 +49,8 @@ inhetirance
 class bicycle
 1:20
 
+MountainBike extends Bycicle
+
 
 
 
