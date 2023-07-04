@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=2RQUDtI2VC8&t=4920s&ab_channel=Simplilearn
+
 microservicios
 UsuarioController.java
 
@@ -50,6 +52,12 @@ class bicycle
 1:20
 
 MountainBike extends Bycicle
+
+bike need extra property
+initialize
+
+1:23
+
 
 
 
