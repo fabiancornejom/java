@@ -1,0 +1,65 @@
+https://education.oracle.com/java/java/pFamily_48
+https://education.oracle.com/learning-explorer
+https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
+
+Develop in-demand programming skills 
+ventajas sobre la competencia
+
+sing up for oracle cloud
+account details
+sign in oracle cloud
+username
+password
+
+create a vm instance
+java-basics-vm
+change image
+oracle images
+oracle cloud developer image
+select image
+shape options
+ad 3
+change image
+amd
+vm standart 2.2 16 network 1.4
+assign public ip address
+ssh key pair (study search in google)
+choose ssh key files
+running
+public ip address (copy address)
+
+joes ssh -i /Users/joe/.ssh/id_rsa opc@129.146.191.44
+opc@(ip address)
+yes
+enter phrasse  :
+vcnpasswd
+password:
+verify:
+no(n)
+exit
+logout
+joes ssh -L 59:01:localhost:5901 -i/Users/joe/.ssh/id_rsa opc@129.146.191.44
+enter phrasse key :
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
