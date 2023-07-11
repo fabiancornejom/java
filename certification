@@ -42,6 +42,32 @@ joes ssh -L 59:01:localhost:5901 -i/Users/joe/.ssh/id_rsa opc@129.146.191.44
 enter phrasse key :
 
 
+crear una cuenta en oracle cloud
+create a vm instance
+
+for(clothing c : items){
+ if(c.size.equals(c1.size)){
+   //add to total
+ }
+}
+
+c1.setSize('S');
+
+public Clothing(String description,Double price,String size)
+{...}
+
+public void getItems(Clothing items){
+ return items;
+}
+
+arrayIndexOutBoundsException
+Customer c1 = new Customer("Pinky","3");
+
+
+
+
+
+
 
 
 
