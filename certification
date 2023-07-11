@@ -128,6 +128,11 @@ beta() can directly call alpha()
 
 respuesta 'b' 'c'
 
+se puede hacer un import statico sin hacer extend
+import static curso.Repetition.twice;
+
+
+
 
 
 
