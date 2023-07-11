@@ -137,6 +137,15 @@ public void setEnabled(boolean enabled)
 public void setEnabled(boolean enabled)
  public boolean isEnabled()
 
+llamar un metodo de otro packete sin extend
+
+byte[] bytes = new byte[256];
+byte s = 0;
+curso.BitUtils.process(s);
+
+https://www.examsnet.com/test/java-8-certification-language-fundamentals-questions/q-7/Given-enum-Example-ONE-TWO-THREE-Which-statement-is-true?
+
+
 
 
 
