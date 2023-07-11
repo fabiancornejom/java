@@ -63,6 +63,21 @@ public void getItems(Clothing items){
 arrayIndexOutBoundsException
 Customer c1 = new Customer("Pinky","3");
 
+Object
+System.out.println("Welcome to Duke's Choice Shop!");
+
+public static final double MIN_PRICE = 10.0;
+
+Customer c1 = new Customer();
+c1.name = "Pinky";
+
+double total = (item2.price*2 + item1.price)*(1+tax);
+Helidon
+
+
+
+
+
 
 
 
