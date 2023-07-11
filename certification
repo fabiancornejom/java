@@ -106,6 +106,33 @@ for(Clothing c: Items){
  total = total  + c.price*(1+tax);
 }
 
+Clothing []items ={item1,item2};
+
+https://www.examsnet.com/exams/ocjp-certification-practice-online
+
+class Foo {
+ static void alpha()
+ {/*more code here*/}
+void beta(){
+ {/*more code here*/}
+}
+}
+
+alpha() is a valid invocation
+beta() can directly call alpha()
+
+	char[]yahoo = {'a','b','c'};
+		
+		for(int x=1; x<yahoo.length; x++) {
+			System.out.println(yahoo[x]+ "");
+
+respuesta 'b' 'c'
+
+
+
+
+
+
 
 
 
