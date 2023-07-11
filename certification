@@ -97,6 +97,18 @@ public class Customer(){
  String name;
 }
 
+dividir por 0
+arithmetic exception 
+
+compareTo
+
+for(Clothing c: Items){
+ total = total  + c.price*(1+tax);
+}
+
+
+
+
 
 
 
