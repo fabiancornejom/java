@@ -131,6 +131,14 @@ respuesta 'b' 'c'
 se puede hacer un import statico sin hacer extend
 import static curso.Repetition.twice;
 
+public void setEnabled(boolean enabled)
+ public boolean getEnabled()
+
+public void setEnabled(boolean enabled)
+ public boolean isEnabled()
+
+
+
 
 
 
