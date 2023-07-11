@@ -74,6 +74,32 @@ c1.name = "Pinky";
 double total = (item2.price*2 + item1.price)*(1+tax);
 Helidon
 
+System.out.println(c1.size)
+s
+
+switch(measurement){
+ case:1 case:2 case:3
+ c1.size="S";
+ break;
+}
+
+public void setPrice(double price){
+ if(price < MIN_PRICE){
+   this.price = MIN_PRICE;
+ }
+ else{
+   this.price = price;
+ }
+}
+
+
+public class Customer(){
+ String name;
+}
+
+
+
+
 
 
 
