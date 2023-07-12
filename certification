@@ -185,8 +185,39 @@ ssh key : create command line
 lo que esta en plomo en obligatorio
 
 
+ssh keygen -t rsa -N "" -b 2048 -c : todo plomo   <key name >  rojo -f plomo : <ruta> rojo  
 -b 2048 -c : <key_name> : -b 2048 -c : demossh
 -f <path/root_name> : -f /Users/joe/demossh/demossh
+
+se guarda el ssh key en una carpeta
+no such file or directory
+
+managing key pairs on linux
+
+ls /Users/joe/.ssh/
+id rsa
+id rsa.pub
+
+choose ssh files : buscar el archivo ssh creado
+ok
+
+status : running
+public ip : 129.146.191.44
+
+ingresar a la vm
+copiar ip 
+
+oracle getting connected with ssh
+for example
+$ ssh -i id_rsa opc@<IP Address> = 129.146.191.44
+yes
+
+
+
+
+
+
+
 
 
 
