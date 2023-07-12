@@ -173,6 +173,22 @@ username
 password
 
 create a vm instance
+name vm
+image : oracle developer image
+duckduckgo : oracle developer image
+avalaibility domain : ad 3
+shape : amd - memory 16
+select shape
+add ssh key : ssh key pair
+ssh key : create command line 
+
+lo que esta en plomo en obligatorio
+
+
+-b 2048 -c : <key_name> : -b 2048 -c : demossh
+-f <path/root_name> : -f /Users/joe/demossh/demossh
+
+
 
 
 
