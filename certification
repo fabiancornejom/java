@@ -212,6 +212,37 @@ for example
 $ ssh -i id_rsa opc@<IP Address> = 129.146.191.44
 yes
 
+enter phrase = " "
+last login  = 12/07/2023
+
+accesing gui via vcn (user interface)
+configure password : vncpasswd
+password = ""
+varify = ""
+view only : no
+view only : no configured
+vncserver
+does not exits
+
+creating default startup
+exit
+logout conecction
+
+letras rojas
+
+ssh -l 5901:localhost:5901 -i /Users/joe
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
