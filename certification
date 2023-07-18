@@ -235,6 +235,16 @@ entrer phrase :
 last login
 
 object oriented
+compare(another dog)
+
+Dod myDog = new Dog();
+
+abstraction
+encapsulation
+inhetirance
+polyformism
+
+
 
 
 
