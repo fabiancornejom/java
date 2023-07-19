@@ -244,6 +244,31 @@ encapsulation
 inhetirance
 polyformism
 
+objetives
+
+abstraccion = domain behaviors attributes
+inhetirance = reuse and flexibility
+encaptulation = oop developer minimize dependencies object state changed
+polymorphism = flexible, reusable
+
+Dog Object
+veterinary clinic applicacion = dog object
+owner application = dog object
+kernel application = dog object
+
+interface
+implemented diferently
+
+object face  
+
+1 dog
+2 person
+3 robot
+
+
+
+
+
 
 
 
